@@ -5,8 +5,8 @@ does.
 
 ## Key Files of Interest
 
-- `app.vue`: Calls the test API endpoint and logs IDs generated client-side.
-- `server/api/createId.ts`: Attempts to generate IDs using both `uuid` and `@instantdb/admin` on the server.
+- [app.vue](/app.vue): Calls the test API endpoint and logs IDs generated client-side.
+- [server/api/createId.ts](/server/api/createId.ts): Attempts to generate IDs using both `uuid` and `@instantdb/admin` on the server.
 
 ## The Issue
 
